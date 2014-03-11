@@ -1,0 +1,22 @@
+{
+  "name": "Pm25WebApp",
+  "version": "0.0.1",
+  "authors": [
+    "Marshal <marshal.wu@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  	"requirejs":"",
+  	"bootstrap":"",
+  	"canjs":"",
+    "jquery": ""
+  }
+}
